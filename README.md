@@ -1,1 +1,0 @@
-This simple two player interactive board game in python allows the users to navigate the interface through rolling a random number. As they progress through the game, the amount they roll corresponds to an either subtracted or added value to their in-game bank balance. Once both players reach the last slot of the board, whoever has the most amount of money wins. 
